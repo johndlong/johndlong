@@ -1,5 +1,9 @@
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/john-d-long/)](https://linkedin.com/in/john-d-long/)
+<!---
+Redundant to have github, but keeping this around in case I need it somewhere else
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/johndlong)](https://github.com/johndlong)
+--->
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/john-d-long/)](https://linkedin.com/in/john-d-long/)
 
 ## About Me
 
