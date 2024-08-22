@@ -13,6 +13,7 @@ Redundant to have github, but keeping this around in case I need it somewhere el
 
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+[![Hack](https://img.shields.io/badge/hack-orange.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTMuNiAyNTMuNiI+PHBhdGggZmlsbD0iIzIyMUYyMCIgZD0iTTYzLjYgMjE3LjhsNTcuOC01OC43SDYzLjZ6bTYwLjMtMTg1LjNMNjMuNiA5MS40djYxLjVsNjAuMy02MC4zeiIvPjxwYXRoIGZpbGw9IiNFRUUiIGQ9Ik0xMjguMSA5NC42djU3LjVsNTguMi01Ny41eiIvPjxwYXRoIGZpbGw9IiMyMjFGMjAiIGQ9Ik0xMjguMSAyMjAuN0wxOTAgMTU5Vjk3LjZsLTYxLjkgNjEuNnoiLz48cGF0aCBmaWxsPSIjRTBBMzNCIiBkPSJNMTIzLjkgMTU0LjRWOTguM2wtNTYuMyA1NnoiLz48L3N2Zz4=)](https://hacklang.org/)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white)](https://istio.io/)
