@@ -20,6 +20,7 @@ Redundant to have github, but keeping this around in case I need it somewhere el
 [![Envoy](https://img.shields.io/badge/Envoy-AC6199?style=for-the-badge&logo=envoyproxy&logoColor=white)](https://www.envoyproxy.io/)
 [![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689)](https://helm.sh/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Buildkite](https://img.shields.io/badge/Buildkite-1d253a?style=for-the-badge&logo=buildkite&logoColor=07C160)](https://buildkite.com/)
 [![Prow](https://img.shields.io/badge/Prow-326ce5?&style=for-the-badge&logo=kubernetes&logoColor=white)](https://docs.prow.k8s.io/docs/)
 
 ## Familiar Languages / Tools
