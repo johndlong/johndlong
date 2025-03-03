@@ -36,7 +36,7 @@ Redundant to have github, but keeping this around in case I need it somewhere el
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)](https://www.jenkins.io/)
 
-#### 📱 [@slack](https://slack.com/) - Senior Software Engineer Test Infrastructure
+#### 📱 [@slack](https://github.com/slackhq) - Senior Software Engineer Test Infrastructure
 #### ☸️ Former [@aspenmesh](https://github.com/aspenmesh) / [@f5](https://github.com/f5) - Senior Software Engineer in Test
 #### 💾 Former [@solidfire](https://github.com/solidfire) / [@NetApp](https://github.com/netapp) - Senior Software Engineer in Test
 #### 💾 Former Dell EMC - Software Quality Senior Principal Software Engineer
